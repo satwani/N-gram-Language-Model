@@ -1,0 +1,4 @@
+<s> i am sam </s>
+<s> sam i am </s>
+<s> i am ham </s>
+<s> ham i am </s>
